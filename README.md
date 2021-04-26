@@ -1,5 +1,5 @@
 # project
 
 - DB 설계
-  <a href="https://aquerytool.com/" target=_blank>
+  <a href="https://aquerytool.com/" target=_blank>https://aquerytool.com/
 #
