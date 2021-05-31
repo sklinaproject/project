@@ -16,7 +16,7 @@ https://www.heidisql.com/download.php?download=installer
 신규
 database-1.csvj9ae9rzmk.ap-northeast-2.rds.amazonaws.com
 admin
-Passwd12
+[PW]
 //이걸로 로그인하자.
 sklina
 123456
@@ -31,24 +31,24 @@ https://github.com/sklinaproject/msa
 주피터랩 접속해보기
 https://3.36.186.10:8888/
 https://54.180.71.26:8888/
-P@sswd12
+[PW]
 
 
 추가정보
 DB모델링 aquerytool.com
-sklinaproject@gmail.com / P@sswd12
+sklinaproject@gmail.com / [PW]
 
 형상관리
 github.com
-sklinaproject / P@sswd12!@
+sklinaproject / [PW]!@
 
 컨테이너
 hub.docker.com
-sklinaproject / P@sswd12!@
+sklinaproject / [PW]!@
 
 배포툴
 http://54.180.71.26:8080/
-admin / P@sswd12
+admin / [PW]
 
 자바 JDK 11.0.1버전 깔기
 https://jdk.java.net/archive/
