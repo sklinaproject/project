@@ -30,7 +30,7 @@ https://github.com/sklinaproject/msa
 
 주피터랩 접속해보기
 https://3.36.186.10:8888/
-https://54.180.71.26:88088/
+https://54.180.71.26:8888/
 P@sswd12
 
 
